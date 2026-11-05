@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-projects-dart-desktop",
+  "capabilityKey": "liberusoftware/music-projects",
+  "presentation": "dart-desktop",
+  "package": "module_music_projects_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/music/nextjs/projects.md",
+  "presentationPlan": "projects/music/features/projects.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
